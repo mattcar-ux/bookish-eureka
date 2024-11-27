@@ -5,3 +5,5 @@ print("cambiamo utente")
 print("lancio da IDE")
 print("modifica da web")
 print("pull da IDE")
+
+Ciao aggiungi una riga
